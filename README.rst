@@ -1,4 +1,4 @@
-.. NOTES FOR CREATING A RELEASE:
+ .. NOTES FOR CREATING A RELEASE:
 ..
 ..   * bumpversion {major|minor|patch}
 ..   * git push && git push --tags
